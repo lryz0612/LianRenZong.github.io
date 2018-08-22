@@ -102,8 +102,8 @@ analytics:
 author:
   name             : "Zhuang Dingyi"
   avatar           : "/assets/images/zhuangdingyi.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : &description
-  location         : "Shanghai, China"
+  bio              : *description
+  location         : "No. 800 Dongchuan Rd, Shanghai, China 200240"
   email            : "zdysdsd@sjtu.edu.cn"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"

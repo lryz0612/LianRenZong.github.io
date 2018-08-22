@@ -10,6 +10,7 @@ main:
     url: /honor_awards/
   - title: "Personal"
     url: /personal/
-
+  - title: "Contact"
+    url: /contact/
   - title "About"
     url: /

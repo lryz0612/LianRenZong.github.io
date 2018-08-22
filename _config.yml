@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Zhuang Dingyi - Homepage"
 title_separator          : "-"
 name                     : &name "Dingyi Zhuang"
-description              : &description "B.Eng student, School of Mechanical Engineering, Shanghai Jiao Tong University"
+description              : &description "B.Eng of Mechanical Engineering, Shanghai Jiao Tong University"
 url                      : "https://zhuangdingyi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : "ZhuangDingyi/ZhuangDingyi.github.io"
@@ -103,7 +103,7 @@ author:
   name             : "Zhuang Dingyi"
   avatar           : "/assets/images/zhuangdingyi.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : *description
-  location         : "No. 800 Dongchuan Rd, Shanghai, China 200240"
+  location         : "Shanghai, China"
   email            : "zdysdsd@sjtu.edu.cn"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"

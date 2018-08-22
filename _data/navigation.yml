@@ -4,13 +4,14 @@ main:
     url: /cv/
   - title: "Research"
     url: /research/
-  - title: "Publication"
-    url: /year-archive/
+  - title: "Publications"
+    url: /publications/
   - title: "Honor&Awards"
     url: /honor_awards/
   - title: "Personal"
     url: /personal/
   - title: "Contact"
     url: /contact/
+    
   - title "About"
     url: /

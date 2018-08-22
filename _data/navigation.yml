@@ -8,5 +8,7 @@ main:
     url: /year-archive/
   - title: "Honor&Awards"
     url: /honor_awards/
+  - title: "Personal"
+    url: /personal/
   - title: "Contact"
     url: /contact/

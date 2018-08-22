@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : &name "Dingyi Zhuang"
 description              : &description "B.Eng of Mechanical Engineering, Shanghai Jiao Tong University"
 url                      : "https://zhuangdingyi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : ""# the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "ZhuangDingyi/ZhuangDingyi.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -103,7 +103,7 @@ author:
   name             : "Zhuang Dingyi"
   avatar           : "/assets/images/zhuangdingyi.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : *description
-  location         : "Shanghai, China"
+  location         : "Shanghai"
   email            : "zdysdsd@sjtu.edu.cn"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"

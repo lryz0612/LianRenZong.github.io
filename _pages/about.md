@@ -12,6 +12,13 @@ I am a Bachelor of Mechanical Engineering of [Shanghai Jiao Tong University](htt
 
 My research interests lie in spatial-temporal data mining and urban computing, particularly in applying advanced machine learning methods on intelligent transportation system and human mobility modeling to solve urban transportation issues and build a smart city.
 
+# Research Interests
+
+* Urban computing&smart city
+* Spatial-temporal data mining
+* Intelligent transportation systems
+* Human mobility and travel behavior
+
 # News
 
 * September 9, 2018. I will make oral presentation in *The Sixth International Conference on Transportation and Logistics (6th T-LOG)*.

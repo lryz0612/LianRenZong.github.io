@@ -16,7 +16,7 @@ redirect_from:
 
 * B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University, 2019
 
-* NGNE research student in Civil and Environmental Engineering, National University of Singapore, 2018
+* Research student in Civil and Environmental Engineering, National University of Singapore, 2018
 
 ## Research experience
 

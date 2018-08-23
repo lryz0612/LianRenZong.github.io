@@ -13,9 +13,9 @@ I have spent much time in student's affairs, especially hosting scholarship cere
 
 * I participated in hosting the 121th Anniversary of Shanghai Jiao Tong University, particularly in arranging the designation of shirts, posts and booklets.
 * I have directed film trilogy to introduce Shanghai Jiao Tong University to freshmen: 
-···[Taste of SJTU](https://www.bilibili.com/video/av5993077/)
-···[Our Love Story: A Disguised Introduction of Course Choosing](https://www.bilibili.com/video/av5993224/)
-···[Fighting! My Dragon Soul](https://www.bilibili.com/video/av5993587/) 
+	* [Taste of SJTU](https://www.bilibili.com/video/av5993077/)
+	* [Our Love Story: A Disguised Introduction of Course Choosing](https://www.bilibili.com/video/av5993224/)
+	* [Fighting! My Dragon Soul](https://www.bilibili.com/video/av5993587/) 
 * I have posted nearly 10 press releases and photography works in our school's website.
 
 # Volunteer

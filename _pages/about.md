@@ -18,7 +18,7 @@ My research interests lie in spatial-temporal data mining and urban computing, p
 
 * August 6, 2018. A paper was accepted in *The 6th International Conference on Transportation and Space-time Economics (TSTE 2018)*.
 
-* July 15, 2018. A paper was submitted to * Journal of Transport Geography*.
+* July 15, 2018. A paper was submitted to *Journal of Transport Geography*.
 
 * July 9, 2018. I start my research in National University of Singapore under the guidance of Prof. Lee Der-Horng.
 

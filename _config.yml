@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lantao Yu"
+title                    : "Zhuang Dingyi - Homepage"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
-description              : &description "PhD student, Computer Science Department, Stanford University"
-url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhuang Dingyi"
+description              : &description "B.Eng of Mechanical Engineering, Shanghai Jiao Tong University"
+url                      : https://zhuangdingyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LantaoYu/lantaoyu.github.io"
+repository               : "ZhuangDingyi/ZhuangDingyi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,33 +77,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
-  avatar           : "lantaoyu.jpg"
-  bio              : "PhD student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  name             : "Zhuang Dingyi"
+  avatar           : "files/zhuangdingyi.jpg"
+  bio              : *description
+  location         : "Shanghai, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@hotmail.com"
+  googlescholar    : 
+  email            : "zdysdsd@sjtu.edu.cn"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : &facebook "Zhuang Dingyi"
   foursquare       :
-  github           : "LantaoYu"
+  github           : "ZhuangDingyi"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         : &linkedin "dingyi-zhuang-719841133"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : &twitter "zdy_bert"
   vine             :
   weibo            :
   xing             :

@@ -20,13 +20,13 @@ redirect_from:
 
 ## Research experience
 
-* 2018.7-2018.9, research student, [Civil and Environmental Engineering, National University of Singapore](http://www.eng.nus.edu.sg/cee/) 
+* 2018.7-2018.9, research student, [Civil and Environmental Engineering](http://www.eng.nus.edu.sg/cee/) , National University of Singapore
 
-* 2017.10-2017.11, research assistant, [Institute of Refrigeration and Cryogenic Engineering, Shanghai Jiao Tong University](http://www.sjtuirc.sjtu.edu.cn/CN/Default.aspx) 
+* 2017.10-2017.11, research assistant, [Institute of Refrigeration and Cryogenic Engineering](http://www.sjtuirc.sjtu.edu.cn/CN/Default.aspx) , Shanghai Jiao Tong University
 
-* 2017.3-2018.6, project leader, [Chuntsung Program, Shanghai Jiao Tong University](http://chuntsung.sjtu.edu.cn) 
+* 2017.3-2018.6, project leader, [Chuntsung Program](http://chuntsung.sjtu.edu.cn) , Shanghai Jiao Tong University
 
-* 2016.4-2017.4, key member, [Participant Research Program(PRP), Shanghai Jiao Tong University](http://uitp.sjtu.edu.cn/innovation/index.html) 
+* 2016.4-2017.4, key member, [Participant Research Program(PRP)](http://uitp.sjtu.edu.cn/innovation/index.html) , Shanghai Jiao Tong University
 
-* 2015.9-2016.8, research assistant, [Robotics Institute, Shanghai Jiao Tong University](http://www.robot.sjtu.edu.cn/English/Default.aspx) 
+* 2015.9-2016.8, research assistant, [Robotics Institute](http://www.robot.sjtu.edu.cn/English/Default.aspx) , Shanghai Jiao Tong University
 

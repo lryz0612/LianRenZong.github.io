@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Contact"
-permalink: /contact/
+title: "Personal"
+permalink: /personal/
 author_profile: true
 ---
 Computer Science Department, Stanford University<br>

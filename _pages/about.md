@@ -14,7 +14,7 @@ My research interests lie in spatial-temporal data mining and urban computing, p
 
 # News
 
-* September 9, 2018. I will make oral presentation *The Sixth International Conference on Transportation and Logistics (6th T-LOG)*.
+* September 9, 2018. I will make oral presentation in *The Sixth International Conference on Transportation and Logistics (6th T-LOG)*.
 
 * August 6, 2018. A paper was accepted in *The 6th International Conference on Transportation and Space-time Economics (TSTE 2018)*.
 

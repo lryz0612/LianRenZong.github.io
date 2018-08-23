@@ -12,7 +12,7 @@ author_profile: true
 
 I have spent much time in student's affairs, especially hosting scholarship ceremonies and anniversaries of college, photographing and filming. Here are selected activities:
 
-* I participated in hosting the 121th Anniversary of Shanghai Jiao Tong University, particularly in arranging the designation of shirts, posts and booklets.
+* I participated in hosting the 121th Anniversary of Shanghai Jiao Tong University, particularly in arranging the designing of shirts, posts and booklets.
 * I have directed film trilogy to introduce Shanghai Jiao Tong University to freshmen: 
 	* [A Bite of SJTU](https://www.bilibili.com/video/av5993077/)
 	* [Our Love Story: A Disguised Introduction of Course Choosing](https://www.bilibili.com/video/av5993224/)

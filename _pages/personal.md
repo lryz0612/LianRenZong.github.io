@@ -7,6 +7,7 @@ author_profile: true
 
 # Activities
 <img src="https://zhuangdingyi.github.io/files/coqd.png" style="width: 100px;float: right;"/>  
+
 **Vice president**, Center of Quality Development (2015.10-2017.9) 
 
 I have spent much time in student's affairs, especially hosting scholarship ceremonies and anniversaries of college, photographing and filming. Here are selected activities:
@@ -20,6 +21,7 @@ I have spent much time in student's affairs, especially hosting scholarship cere
 
 # Volunteer
 * Dongchuan Road Subway Station (2018.5)
+* Photographer volunteer for UAES-SJTU Collaboration Agreement Signing Ceremony (2017.8)
 * Outstanding volunteer for 122th Anniversary of School of Mechanical Engineering, Shanghai Jiao Tong University (2018.4)
 * 20th Anniversary of School of Life Science and Biotechnology of Shanghai Jiao Tong University(2017.11)
 * Outstanding volunteer for 121th Anniversary of School of Mechanical Engineering, Shanghai Jiao Tong University (2017.4)

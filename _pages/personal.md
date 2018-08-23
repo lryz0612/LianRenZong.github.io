@@ -7,7 +7,7 @@ author_profile: true
 
 # Activities
 
-**Vice president**, Center of Quality Development(2015.10-2017.9) <img src="https://zhuangdingyi.github.io/files/coqd.png.jpg" style="float: right;"/> 
+**Vice president**, Center of Quality Development(2015.10-2017.9) <img src="https://zhuangdingyi.github.io/files/coqd.png" style="float: right;"/> 
 
 I have spent much time in student's affairs, especially hosting scholarship ceremonies and anniversaries of college, photographing and filming. Here are selected activities:
 

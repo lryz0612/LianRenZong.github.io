@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhuang Dingyi"
-  avatar           : "zhuangdingyi.jpg"
+  avatar           : "/assets/images/zhuangdingyi.jpg"
   bio              : "B.Eng of Mechanical Engineering, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         : 

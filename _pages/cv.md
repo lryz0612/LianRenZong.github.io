@@ -15,13 +15,13 @@ redirect_from:
 ## Education
 
 * **B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University, 2019**  
-	Sept. 2015 ~ Jun. 2019 (Expected)  
-	[Hsue-shen Tsien Class](http://me.sjtu.edu.cn/userfiles/brochure-Qian(1).pdf)  
-	Bachelor of Engineering, School of Mechanical Engineering  
-	GPA: 3.55/4.3 (85.67/100)  Rank: 2/8
+  Sept. 2015 ~ Jun. 2019 (Expected)  
+  [Hsue-shen Tsien Class](http://me.sjtu.edu.cn/userfiles/brochure-Qian(1).pdf)  
+  Bachelor of Engineering, School of Mechanical Engineering  
+  GPA: 3.55/4.3 (85.67/100)  Rank: 2/8
 	
-* **Research student in Civil and Environmental Engineering, National University of Singapore, 2018**\
-	Supervisor: [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/)
+* **Research student in Civil and Environmental Engineering, National University of Singapore, 2018**  
+  Supervisor: [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/)
 
 ## Awards & Honors
 

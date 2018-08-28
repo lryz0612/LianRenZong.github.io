@@ -15,8 +15,23 @@ redirect_from:
 ## Education
 
 * B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University, 2019
-
+	Sept. 2015 ~ Jun. 2019 (Expected)
+	[Hsue-shen Tsien Class](http://me.sjtu.edu.cn/userfiles/brochure-Qian(1).pdf)
+	Bachelor of Engineering, School of Mechanical Engineering
+	GPA: 3.55/4.3 (85.67/100)  Rank: 2/8
+	
 * Research student in Civil and Environmental Engineering, National University of Singapore, 2018
+	Supervisor: [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/)
+
+## Awards & Honors
+
+* **Hsue-shen Tsien Class** (5%, Honor Program in School of Mechanical Engineering), Shanghai Jiao Tong University. 2019
+* **Chungtsung Scholarship** (10%, RMB 16000 for excellent research students), [The Hui-Chun Chin And Tsung Dao Lee Endowment Program Commission](http://junzheng.lib.sjtu.edu.cn/) . 2017
+* **First Prize** (1/130, RMB 50000), [Chinese University Students Big Data Innovation Application and Modeling Contest](https://zhuangdingyi.github.io/files/chinatel.jpg) . 2017
+* **Eleme Scholarship** (5%, Twice), Shanghai Jiao Tong University. 2016 & 2017
+* **Honorable Mention**, 2017 Mathematical Contest in Modeling. 2017
+* **Excellent Student** (5%), Shanghai Jiao Tong University. 2016
+* **Freshmen Scholarship**, Shanghai Jiao Tong University. 2015
 
 ## Research experience
 

@@ -3,11 +3,11 @@ main:
   - title: "CV/Bio"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Awards & Honors"
-    url: /awards/
+  - title: "Research"
+    url: /research/
+    
+  #- title: "Publications"
+  #  url: /publications/
 
   - title: "Personal"
     url: /personal/    

@@ -13,6 +13,8 @@ author_profile: true
 	* Geodata visualization with Python
 	* A working paper is under construction
 
+![](http://zhuangdingyi.github.io/files/stns_sP_sF.png)
+
 [**Understanding the bike sharing travel demand and cycle lane network: the case of Shanghai**](https://zhuangdingyi.github.io/files/2018-08-23-Pre-Bikesharing.pdf)  
 *Shanghai Jiao Tong University, Mar. 2017~ June. 2018*  
 *Advisor: [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2) *  
@@ -21,5 +23,6 @@ author_profile: true
 	* Suggested a method to explore cycle lane network then presented advice for urban planning
 	* Paper accepted by *6th T-LOG*, *TSTE 2018* and submitted to *Journal of Transport Geography*
 
+![](http://zhuangdingyi.github.io/files/geographic_barrier.png) 
 
 # Course project

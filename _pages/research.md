@@ -24,5 +24,3 @@ author_profile: true
   * Paper accepted by *6th T-LOG*, *TSTE 2018* and submitted to *Journal of Transport Geography*  
 
 ![](http://zhuangdingyi.github.io/files/geographic_barrier.png) 
-
-# Course project

@@ -20,20 +20,20 @@ My research interests lie in spatial-temporal data mining and urban computing, p
 * Human mobility and travel behavior
 
 ## Publication
-* *Dingyi Zhuang*, Jiangang Jin, Yifan Shen, Wei Jiang, An empirical study on cycle lane network using bike sharing data: the case of Shanghai, *2018 International Conference on Transportation and Space-time Economics*. **(Presentation)**[PPT](https://zhuangdingyi.github.io/files/2018-08-23-Pre-Bikesharing.pdf)
+* **Dingyi Zhuang**, Jiangang Jin, Yifan Shen, Wei Jiang, An empirical study on cycle lane network using bike sharing data: the case of Shanghai, *2018 International Conference on Transportation and Space-time Economics*. **(Presentation)**[PPT](https://zhuangdingyi.github.io/files/2018-08-23-Pre-Bikesharing.pdf)
 
-* *Dingyi Zhuang*, Jiangang Jin, Yifan Shen, Wei Jiang, Understanding the bike sharing travel demand and cycle lane network: the case of Shanghai, *Journal of Transport Geography*. **(Under review)** [PDF](https://zhuangdingyi.github.io/files/full-manuscript.pdf) 
+* **Dingyi Zhuang**, Jiangang Jin, Yifan Shen, Wei Jiang, Understanding the bike sharing travel demand and cycle lane network: the case of Shanghai, *Journal of Transport Geography*. **(Under review)** [PDF](https://zhuangdingyi.github.io/files/full-manuscript.pdf) 
 
-* *Dingyi Zhuang*, Siyu Hao, Lee Der-Horng, Jiangang Jin, Understanding semantic similarity among subway stations using smart card data. **(Working paper)** [PPT](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf) 
+* **Dingyi Zhuang**, Siyu Hao, Lee Der-Horng, Jiangang Jin, Understanding semantic similarity among subway stations using smart card data. **(Working paper)** [PPT](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf) 
 
 ## News
 
-* September 9, 2018. I will make oral presentation in *The Sixth International Conference on Transportation and Logistics (6th T-LOG)*.
+* September 9, 2018. I will make oral presentation in *The Sixth International Conference on Transportation and Logistics ([6th T-LOG](http://tlog2018.cicts-dmu.com/) )*.
 
-* August 6, 2018. A paper was accepted in *The 6th International Conference on Transportation and Space-time Economics (TSTE 2018)*.
+* August 6, 2018. A paper was accepted in *The 6th International Conference on Transportation and Space-time Economics ([TSTE 2018](http://tste.bjtu.edu.cn/) )*.
 
 * July 15, 2018. A paper was submitted to *Journal of Transport Geography*.
 
 * July 9, 2018. I start my research in National University of Singapore under the guidance of Prof. Lee Der-Horng.
 
-* May 16, 2018. A paper was accepted in *The Sixth International Conference on Transportation and Logistics (6th T-LOG)*.
+* May 16, 2018. A paper was accepted in *The Sixth International Conference on Transportation and Logistics ([6th T-LOG](http://tlog2018.cicts-dmu.com/) )*.

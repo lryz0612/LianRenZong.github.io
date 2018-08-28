@@ -14,12 +14,15 @@ I have spent much time in student's affairs, especially hosting scholarship cere
 
 * I participated in hosting the 121th Anniversary of Shanghai Jiao Tong University, particularly in arranging the designing of shirts, posts and booklets.
 * I have directed film trilogy to introduce Shanghai Jiao Tong University to freshmen: 
-	* [A Bite of SJTU](https://v.youku.com/v_show/id_XMTY5NjkzMTE2NA==.html?spm=a2h0k.11417342.soresults.dtitle)
+	* [A Bite of SJTU](https://v.youku.com/v_show/id_XMTY5NjkzMTE2NA==.html?spm=a2h0k.11417342.soresults.dtitle) </br>
 https://v.youku.com/v_show/id_XMTY5NjkzMTE2NA==.html?spm=a2h0k.11417342.soresults.dtitle
 	* [Our Love Story: A Disguised Introduction of Course Choosing](https://www.bilibili.com/video/av5993224/)
-	* [Fighting! My Dragon Soul](https://v.youku.com/v_show/id_XMTY5ODI5NjA2MA==.html?spm=a2h0k.11417342.soresults.dtitle)
+	* [Fighting! My Dragon Soul](https://v.youku.com/v_show/id_XMTY5ODI5NjA2MA==.html?spm=a2h0k.11417342.soresults.dtitle) </br>
 https://v.youku.com/v_show/id_XMTY5ODI5NjA2MA==.html?spm=a2h0k.11417342.soresults.dtitle
 * I have posted nearly 10 press releases and photography works in our school's website.
+
+
+http://v.youku.com/v_show/id_XMjQzMTY1MDk3Ng==.html
 
 ## Volunteer
 * Dongchuan Road Subway Station (2018.5)

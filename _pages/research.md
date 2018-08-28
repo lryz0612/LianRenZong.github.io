@@ -6,13 +6,14 @@ author_profile: true
 ---
 [**Understanding semantic similarity among subway stations using smart card data**](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf)  
 *National University of Singapore, July. 2018~ Sept. 2018*  
-*Advisor: [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/) Dr. Siyu Hao, [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2)*  
 
-	* Proposed a new conception to understand urban mobility as words  
-	* Independently selected mobility then trained stacked autoencoder network to discover mobility semantics  
-	* Applied topic modeling (TF-IDF+SVD+LDA) on scraped POI data to find service semantics 
-	* Geodata visualization with Python 
-	* A working paper is under construction  
+*Advisor: [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/) Dr. Siyu Hao, [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2) * 
+
+  * Proposed a new conception to understand urban mobility as words  
+  * Independently selected mobility then trained stacked autoencoder network to discover mobility semantics  
+  * Applied topic modeling (TF-IDF+SVD+LDA) on scraped POI data to find service semantics 
+  * Geodata visualization with Python 
+  * A working paper is under construction  
 
 ![](http://zhuangdingyi.github.io/files/stns_sP_sF.png)
 

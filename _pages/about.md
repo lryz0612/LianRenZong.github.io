@@ -27,6 +27,7 @@ My research interests lie in spatial-temporal data mining and urban computing, p
 * **Dingyi Zhuang**, Siyu Hao, Lee Der-Horng, Jiangang Jin, Understanding semantic similarity among subway stations using smart card data. **(Working paper)** [PPT](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf) 
 
 ## News
+* October 13, 2018. I will report in [*WCTR Society’s SIG G2 Mid-Term Workshop*](http://e242.zserv.tuwien.ac.at/fileadmin/mediapool-verkehrsplanung/Diverse/Links/CfP_WCTR_SIG2_mid-term_event_final_v1.pdf) in Beijing.
 
 * September 9, 2018. I will make oral presentation in *The Sixth International Conference on Transportation and Logistics ([6th T-LOG](http://tlog2018.cicts-dmu.com/) )*.
 

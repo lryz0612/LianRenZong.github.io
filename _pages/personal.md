@@ -4,7 +4,6 @@ title: "Personal"
 permalink: /personal/
 author_profile: true
 ---
-<img src="https://zhuangdingyi.github.io/files/zhuangdingyi_bridge.jpg" /> 
 ## Activities
 <img src="https://zhuangdingyi.github.io/files/coqd.png" style="width: 100px;float: right;"/>  
 

@@ -23,4 +23,4 @@ author_profile: true
   * Suggested a method to explore cycle lane network then presented advice for urban planning  
   * Paper accepted by *6th T-LOG*, *TSTE 2018* and submitted to *Journal of Transport Geography*  
 
-![](http://zhuangdingyi.github.io/files/geographic_barrier.png) 
+![](http://zhuangdingyi.github.io/files/geographic_barrier_titled.png) 

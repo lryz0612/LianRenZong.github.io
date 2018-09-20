@@ -38,4 +38,4 @@ I have spent much time in student's affairs, especially hosting scholarship cere
 
 ## Visitors
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=IOfsTsg_5cgvk99-MCQe3awPo4ClF2ymszy36Pzp-sI"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=IOfsTsg_5cgvk99-MCQe3awPo4ClF2ymszy36Pzp-sI" style="width: 500px"></script>

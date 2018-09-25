@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Bachelor in Mechanical Engineering of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) expected to graduate in 2019 and a research student of [National University of Singapore](http://www.nus.edu.sg/). My supervisors in two universities are [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2) and  [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/) respectively. Click [here](http://zhuangdingyi.github.io/files/zhuang_dingyi_cv.pdf) to view my up-to-date CV. If you want to know more about me, please feel free to [contact me (zdysdsd at sjtu.edu.cn)](mailto:zdysdsd@sjtu.edu.cn).
+I am a Bachelor in Mechanical Engineering of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) expected to graduate in 2019 and a research student of [National University of Singapore](http://www.nus.edu.sg/). My supervisors in two universities are [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2) and  [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/) respectively. Click [here](http://zhuangdingyi.github.io/files/zhuang_dingyi_cv_extended.pdf) to view my up-to-date CV. If you want to know more about me, please feel free to [contact me (zdysdsd at sjtu.edu.cn)](mailto:zdysdsd@sjtu.edu.cn).
 
 My research interests lie in spatial-temporal data mining and urban computing, particularly in applying advanced machine learning methods on intelligent transportation system and human mobility modeling to solve urban transportation issues and build a smart city.
 

@@ -10,7 +10,7 @@ redirect_from:
 ## CV
 {% include base_path %}
 
-[My Up-to-date Curriculum Vitae](http://zhuangdingyi.github.io/files/zhuang_dingyi_cv.pdf)
+[My Up-to-date Curriculum Vitae](http://zhuangdingyi.github.io/files/zhuang_dingyi_cv_extended.pdf)
 
 ## Education
 
@@ -18,7 +18,7 @@ redirect_from:
   Sept. 2015 ~ Jun. 2019 (Expected)  
   [Hsue-shen Tsien Class](http://me.sjtu.edu.cn/userfiles/brochure-Qian(1).pdf)  
   Bachelor of Engineering, School of Mechanical Engineering  
-  GPA: 3.55/4.3 (85.67/100)  Rank: 2/8
+  GPA: 3.55/4.3 (85.67/100)  Rank: 3/8
 	
 * **Research student in Civil and Environmental Engineering, National University of Singapore, 2018**  
   Supervisor: [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/)

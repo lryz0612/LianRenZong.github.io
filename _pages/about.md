@@ -22,11 +22,15 @@ My research interests lie in spatial-temporal data mining and urban computing, p
 ## Publication
 * **Dingyi Zhuang**, Jiangang Jin, Yifan Shen, Wei Jiang, An empirical study on cycle lane network using bike sharing data: the case of Shanghai, *2018 International Conference on Transportation and Space-time Economics*. **(Presentation)**[PPT](https://zhuangdingyi.github.io/files/2018-08-23-Pre-Bikesharing.pdf)
 
-* **Dingyi Zhuang**, Jiangang Jin, Yifan Shen, Wei Jiang, Understanding the bike sharing travel demand and cycle lane network: the case of Shanghai, *Journal of Transport Geography*. **(Under review)** [PDF](https://zhuangdingyi.github.io/files/full-manuscript.pdf) 
+* **Dingyi Zhuang**, Jiangang Jin, Yifan Shen, Wei Jiang, Understanding the bike sharing travel demand and cycle lane network: the case of Shanghai, *Transportation Research Part E: Logistics and Transportation Review*. **(Under review)** [PDF](https://zhuangdingyi.github.io/files/full-manuscript.pdf) 
 
-* **Dingyi Zhuang**, Siyu Hao, Lee Der-Horng, Jiangang Jin, Understanding semantic similarity among subway stations using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019/Authors_CFP.html) )*. **(Abstract accepted)** [PPT](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf) 
+* **Dingyi Zhuang**, Siyu Hao, Lee Der-Horng, Jiangang Jin, From compound word to metropolitan station: Semantic similarity analysis
+using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019/Authors_CFP.html) )*. **(Abstract accepted)** [PPT](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf) [PDF](https://zhuangdingyi.github.io/files/NUS_Manuscript.pdf) 
 
 ## News
+
+* November 9, 2018. A paper was submitted to *Transportation Research Part E: Logistics and Transportation Review*.
+
 * October 13, 2018. I will report in [*WCTR Society’s SIG G2 Mid-Term Workshop*](http://e242.zserv.tuwien.ac.at/fileadmin/mediapool-verkehrsplanung/Diverse/Links/CfP_WCTR_SIG2_mid-term_event_final_v1.pdf) in Beijing.
 
 * September 15, 2018. An abstract was submitted to *The 19th COTA International Conference of Transportation Professionals ([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019/Authors_CFP.html) )*

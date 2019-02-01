@@ -28,6 +28,7 @@ My research interests lie in spatial-temporal data mining and urban computing, p
 using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019/Authors_CFP.html) )*. **(Abstract accepted)** [PPT](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf) [PDF](https://zhuangdingyi.github.io/files/NUS_Manuscript.pdf) 
 
 ## News
+* December 12, 2018. My work in NUS was submitted to *Transportation Research Part C: Emerging Technologies*.
 
 * November 9, 2018. A paper was submitted to *Transportation Research Part E: Logistics and Transportation Review*.
 

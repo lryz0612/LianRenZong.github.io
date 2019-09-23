@@ -27,7 +27,12 @@ My research interests lie in spatial-temporal data mining and urban computing, p
 using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019/Authors_CFP.html) )*. **(Abstract accepted)** [PPT](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf) [PDF](https://zhuangdingyi.github.io/files/NUS_Manuscript.pdf) 
 
 ## News
+<<<<<<< HEAD
 * September 3, 2019. I enrolled McGill University as a master (thesis) student in the Department of Civil Engineering and Applied Mechanics
+=======
+* December 12, 2018. My work in NUS, *From compound word to metropolitan station: Semantic similarity analysis
+using smart card data*, was submitted to *Transportation Research Part C: Emerging Technologies*.
+>>>>>>> 353db487b4df1b6b5c2a66a6ed953e78f6d3d4b6
 
 * November 9, 2018. A paper was submitted to *Transportation Research Part E: Logistics and Transportation Review*.
 

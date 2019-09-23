@@ -4,7 +4,7 @@ title: "Personal"
 permalink: /personal/
 author_profile: true
 ---
-<img src="https://zhuangdingyi.github.io/files/zhuangdingyi_bridge_cut.jpg" />
+<img src="https://zhuangdingyi.github.io/images/zhaungdingyi_oldport.jpg" />
 
 ## Activities
 <img src="https://zhuangdingyi.github.io/files/coqd.png" style="width: 100px;float: right;"/>  
@@ -33,9 +33,9 @@ I have spent much time in student's affairs, especially hosting scholarship cere
 
 * Film, animation and book. My favorites are [*Godfather*](https://www.imdb.com/title/tt0068646/) , [*Attack On Titan*](https://www.imdb.com/title/tt2560140/) and [*Napoleon by Emil Ludwig*](https://www.goodreads.com/book/show/129399.Napoleon) respectively
 
-* Novice photographer
+* [Photography in Flicker](https://www.flickr.com/gp/184583888@N05/Gp413b)
 
-* Unskilled guitar player
+* Guitar player
 
 ## Visitors
 

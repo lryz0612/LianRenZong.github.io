@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a Bachelor in Mechanical Engineering of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) expected to graduate in 2019 and a research student of [National University of Singapore](http://www.nus.edu.sg/). My supervisors in two universities are [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2) and  [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/) respectively. Click [here](http://zhuangdingyi.github.io/files/zhuang_dingyi_cv_extended.pdf) to view my up-to-date CV. If you want to know more about me, please feel free to [contact me (zdysdsd at sjtu.edu.cn)](mailto:zdysdsd@sjtu.edu.cn).
+I am a M.Eng (thesis) student in Civil Engineering and Applied Mechanics of [McGill University](https://www.mcgill.ca/). My instructor in McGill is [Prof. Lijun Sun](https://lijunsun.github.io/). I received my Bachelor's degree in Mechanical Engineering of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and was a research student of [National University of Singapore](http://www.nus.edu.sg/). My supervisors in two universities are [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2) and  [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/) respectively. Click [here](http://zhuangdingyi.github.io/files/zhuang_dingyi_cv_extended.pdf) to view my up-to-date CV. If you want to know more about me, please feel free to [contact me (dingyi.zhuang at mail dot mcgill dot ca)](mailto:dingyi.zhuang@mail.mcgill.ca).
 
 My research interests lie in spatial-temporal data mining and urban computing, particularly in applying advanced machine learning methods on intelligent transportation system and human mobility modeling to solve urban transportation issues and build a smart city.
 
@@ -28,6 +27,7 @@ My research interests lie in spatial-temporal data mining and urban computing, p
 using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019/Authors_CFP.html) )*. **(Abstract accepted)** [PPT](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf) [PDF](https://zhuangdingyi.github.io/files/NUS_Manuscript.pdf) 
 
 ## News
+* September 3, 2019. I enrolled McGill University as a master (thesis) student in the Department of Civil Engineering and Applied Mechanics
 
 * November 9, 2018. A paper was submitted to *Transportation Research Part E: Logistics and Transportation Review*.
 

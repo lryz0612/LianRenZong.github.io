@@ -24,7 +24,8 @@ redirect_from:
   [Hsue-shen Tsien Class](http://me.sjtu.edu.cn/userfiles/brochure-Qian(1).pdf)  
   Outstanding Graduate of Shanghai Jiao Tong University  
   Bachelor of Engineering, School of Mechanical Engineering  
-  GPA: 3.55/4.3 (85.67/100)  Rank: 3/8
+  GPA: 3.55/4.3 (85.67/100)  Rank: 3/8  
+  Supervisor: [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2)
 	
 * **Research student in Civil and Environmental Engineering, National University of Singapore**
   July. 2018 ~ Sept. 2019   

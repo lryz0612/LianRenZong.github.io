@@ -22,7 +22,7 @@ redirect_from:
 * **B.Eng. in Mechanical Engineering, Shanghai Jiao Tong University**  
   Sept. 2015 ~ July. 2019
   [Hsue-shen Tsien Class](http://me.sjtu.edu.cn/userfiles/brochure-Qian(1).pdf) 
-  Outstanding Graduate of Shanghai Jiao Tong University 
+  Outstanding Graduate of Shanghai Jiao Tong University
   Bachelor of Engineering, School of Mechanical Engineering  
   GPA: 3.55/4.3 (85.67/100)  Rank: 3/8
 	

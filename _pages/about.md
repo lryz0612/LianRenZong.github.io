@@ -24,14 +24,19 @@ My research interests lie in spatial-temporal data mining and urban computing, p
 * **Dingyi Zhuang**, Jiangang Jin, Yifan Shen, Wei Jiang, Understanding the bike sharing travel demand and cycle lane network: the case of Shanghai, *Transportation Research Part E: Logistics and Transportation Review*. **(Under review)** [PDF](https://zhuangdingyi.github.io/files/full-manuscript.pdf) 
 
 * **Dingyi Zhuang**, Siyu Hao, Lee Der-Horng, Jiangang Jin, From compound word to metropolitan station: Semantic similarity analysis
-using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019/Authors_CFP.html) )*. **(Abstract accepted)** [PPT](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf) [PDF](https://zhuangdingyi.github.io/files/NUS_Manuscript.pdf) 
+using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019/Authors_CFP.html) )*. **(Accepted and sent to TRC for 2nd review)** [PPT](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf) [PDF](https://zhuangdingyi.github.io/files/NUS_Manuscript.pdf) 
+
+* Siyu Hao, **Dingyi Zhuang**, De Zhao, Der-Horng Lee, A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit, *Transportation Research Board 2020*. **(Under review)**
+
+* Siyu Hao, **Dingyi Zhuang**, Der-Horng Lee, A spatial-temporal Deep Learning Framework for Network-wide Bus Passenger Flow prediction, *Transportation Research Board 2020*. **(Under review)**
 
 ## News
 
 * September 3, 2019. I enrolled McGill University as a master (thesis) student in the Department of Civil Engineering and Applied Mechanics
 
-* December 12, 2018. My work in NUS, *From compound word to metropolitan station: Semantic similarity analysis
-using smart card data*, was submitted to *Transportation Research Part C: Emerging Technologies*.
+* August 3, 2019, two papers, *A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit* and *A spatial-temporal Deep Learning Framework for Network-wide Bus Passenger Flow prediction* were submitted to Transportation Research Board 2020
+
+* December 12, 2018. My work in NUS, *From compound word to metropolitan station: Semantic similarity analysis using smart card data*, was submitted to *Transportation Research Part C: Emerging Technologies*.
 
 
 * November 9, 2018. A paper was submitted to *Transportation Research Part E: Logistics and Transportation Review*.

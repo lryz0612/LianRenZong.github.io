@@ -14,7 +14,7 @@ redirect_from:
 
 ## Education
 
-* ** M.Eng (thesis) in Civil Engineering and Applied Mechanics, McGill University**
+* **M.Eng (thesis) in Civil Engineering and Applied Mechanics, McGill University**
   Sept. 2019 ~ Now
   Instructor: [Prof. Lijun Sun](https://lijunsun.github.io/)
 
@@ -32,9 +32,10 @@ redirect_from:
 
 ## Awards & Honors
 
+* **Graduate Excellence Fellowship** (Civil Engineering Department Nomination), McGill University. 2019
 * **Hsue-shen Tsien Class** (5%, Honor Program in School of Mechanical Engineering), Shanghai Jiao Tong University. 2019
-* **Chungtsung Scholarship** (10%, RMB 16000 for excellent research students), [The Hui-Chun Chin And Tsung Dao Lee Endowment Program Commission](http://junzheng.lib.sjtu.edu.cn/) . 2017
-* **First Prize** (1/130, RMB 50000), [Chinese University Students Big Data Innovation Application and Modeling Contest](https://zhuangdingyi.github.io/files/chinatel.jpg) . 2017
+* **Chungtsung Scholarship** (10%, RMB 16000 for excellent research students), [The Hui-Chun Chin And Tsung Dao Lee Endowment Program Commission](http://junzheng.lib.sjtu.edu.cn/). 2017
+* **First Prize** (1/130, RMB 50000), [Chinese University Students Big Data Innovation Application and Modeling Contest](https://zhuangdingyi.github.io/files/chinatel.jpg). 2017
 * **Eleme Scholarship** (5%, Twice), Shanghai Jiao Tong University. 2016 & 2017
 * **Honorable Mention**, 2017 Mathematical Contest in Modeling. 2017
 * **Excellent Student** (5%), Shanghai Jiao Tong University. 2016

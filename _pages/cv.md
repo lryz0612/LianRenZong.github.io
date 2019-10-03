@@ -28,7 +28,7 @@ redirect_from:
   Supervisor: [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2)
 	
 * **Research student in Civil and Environmental Engineering, National University of Singapore**
-  July. 2018 ~ Sept. 2019   
+  July. 2018 ~ Sept. 2018   
   Supervisor: [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/)
 
 ## Awards & Honors

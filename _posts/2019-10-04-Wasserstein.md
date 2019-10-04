@@ -1,7 +1,7 @@
 ---
 title: 'Notes for Wasserstein Distance (in Chinese)'
 date: 2019-10-04
-permalink: /year-archive/
+permalink: /posts/2019/10/Wasserstein/
 <!-- tags:
   - Study Notes
   - Machine Learning

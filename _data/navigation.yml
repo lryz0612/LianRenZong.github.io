@@ -12,8 +12,8 @@ main:
   - title: "Personal"
     url: /personal/    
         
-  #- title: "Blogs"
-  #  url: /year-archive/
+  - title: "Blogs"
+    url: /year-archive/
     
   #- title: "Contact"
   #  url: /contact/  

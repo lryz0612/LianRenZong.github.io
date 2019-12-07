@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-[**Understanding semantic similarity among subway stations using smart card data**](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf)  
+[**Understanding semantic similarity among subway stations using smart card data**](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf) [doi](https://www.tandfonline.com/doi/full/10.1080/15568318.2019.1699209) 
 *National University of Singapore, July. 2018~ Sept. 2018*  
 *Advisors*: [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/), Dr. Siyu Hao, [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2)  
   * Proposed a new conception to understand metropolitan mobility as words  

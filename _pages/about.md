@@ -9,12 +9,12 @@ redirect_from:
 ---
 I am a M.Eng (thesis) student in Civil Engineering and Applied Mechanics of [McGill University](https://www.mcgill.ca/). My instructor in McGill is [Prof. Lijun Sun](https://lijunsun.github.io/). I received my Bachelor's degree in Mechanical Engineering of [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) and was a research student of [National University of Singapore](http://www.nus.edu.sg/). My supervisors in two universities are [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2) and  [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/) respectively. Click [here](http://zhuangdingyi.github.io/files/zhuang_dingyi_cv_extended.pdf) to view my up-to-date CV. If you want to know more about me, please feel free to [contact me (dingyi.zhuang at mail dot mcgill dot ca)](mailto:dingyi.zhuang@mail.mcgill.ca).
 
-My research interests lie in spatial-temporal data mining and urban computing, particularly in applying advanced machine learning methods on intelligent transportation system and human mobility modeling to solve urban transportation issues and build a smart city.
+My research interests lie in spatial-temporal data mining and urban computing, particularly in applying advanced graph network methods on intelligent transportation system and human mobility modeling to solve urban transportation issues and build a smart city.
 
 ## Research Interests
 
-* Urban computing&smart city
-* Spatial-temporal data mining
+* Urban computing & smart city
+* Graph network & complex network
 * Intelligent transportation systems
 * Human mobility and travel behavior
 
@@ -28,7 +28,7 @@ using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019
 
 * Siyu Hao, **Dingyi Zhuang**, De Zhao, Der-Horng Lee, A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit, *Transportation Research Board 2020*. **(Presentation)**
 
-* Siyu Hao, **Dingyi Zhuang**, Der-Horng Lee, A spatial-temporal Deep Learning Framework for Network-wide Bus Passenger Flow prediction, *Transportation Research Board 2020*. **(Submitted, rejected)**
+* Siyu Hao, **Dingyi Zhuang**, Der-Horng Lee, A spatial-temporal Deep Learning Framework for Network-wide Bus Passenger Flow prediction. **(Working paper)**
 
 ## News
 * October 22, 2019. my paper with Dr. Siyu Hao, *A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit* is accepted for presentation in Transportation Research Board 2020.

@@ -4,14 +4,29 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-[**Understanding semantic similarity among subway stations using smart card data**](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf) 
+**A General Framework Based on Temporally Dynamic Adjacency Matrix for Long-Term Traffic Prediction**
+*McGill University, Dec. 2019 ~ Feb. 2020*
+*Advisor*:  [Prof. Lijun Sun](https://lijunsun.github.io/)
+*Co-worker*: Fuqiang Liu, Jiawei Wang, [Jingbo Tian](https://joshuatian-mcgill.github.io/) and [Prof. Luis Miranda-Moreno](https://www.mcgill.ca/civil/luis-miranda-moreno) 
+* Introduced a general framework with Bias Block to improve the performance of seq2seq extreme long-time prediction.
+* Geodata visualization with Python and paper writing.
+![](http://zhuangdingyi.github.io/files/framework_kdd.pdf) 
+
+[**Bayesian Poisson Tensor Factorization for Learning Paratransit Mobility Patterns**](https://zhuangdingyi.github.io/files/project_cive_648.pdf) 
+*McGill University, Oct. 2019 ~ Dec. 2019*
+*Advisor*:  [Prof. Lijun Sun](https://lijunsun.github.io/)
+* Derived and implemented Bayesian Poisson Tensor Factorization to learn latent patterns of paratransit service for the disabled people in the region-level.
+* Discovered multiple peak-time, indifference between weekdays&weekends as temporal patterns and discuss the spatial regularity.
+* Offered a trial on a marginal research field and appealed for more researches of the disabled and how their transit can be improved.
+
+[**Understanding semantic similarity among subway stations using smart card data**](https://zhuangdingyi.github.io/files/Final_report_prof_lee.pdf) 
 *National University of Singapore, July. 2018~ Sept. 2018*  
-*Advisors*: [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/), Dr. Siyu Hao, [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2)  
+*Advisors*: [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/) and [Prof. Jiangang Jin](http://naoce.sjtu.edu.cn/en/teachershow.aspx?info_lb=24&info_id=8&flag=2)
+*Co-worker*: Dr. Siyu Hao
   * Proposed a new conception to understand metropolitan mobility as words  
   * Independently selected mobility features then trained stacked autoencoder network to discover mobility semantics  
   * Applied topic modeling (TF-IDF+SVD+LDA) on scraped POI data to find service semantics 
-  * Geodata visualization with Python 
-  * A working paper is under construction  
+  * Geodata visualization with Python  
 
 ![](http://zhuangdingyi.github.io/files/stns.gif) 
 
@@ -21,6 +36,6 @@ author_profile: true
   * Proposed methods to scrape data from bike-sharing application  
   * Applied graphic clustering to mine the insight of bike-sharing data  
   * Suggested a method to explore cycle lane network then presented advice for urban planning  
-  * Paper accepted by *6th T-LOG*, *TSTE 2018* and submitted to *Journal of Transport Geography*  
+  * Paper accepted by *6th T-LOG*, *TSTE 2018* and published in *International Journal of Sustainable Transportation*.
 
 ![](http://zhuangdingyi.github.io/files/geographic_barrier_titled.png) 

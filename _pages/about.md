@@ -24,9 +24,12 @@ My research interests lie in spatial-temporal data mining and urban computing, p
 * **Dingyi Zhuang**, Jiangang Jin, Yifan Shen, Wei Jiang, Understanding the bike sharing travel demand and cycle lane network: the case of Shanghai, *International Journal of Sustainable Transportation*. [PDF](https://zhuangdingyi.github.io/files/full-manuscript.pdf) [doi](https://www.tandfonline.com/doi/full/10.1080/15568318.2019.1699209)
 
 * **Dingyi Zhuang**, Siyu Hao, Lee Der-Horng, Jiangang Jin, From compound word to metropolitan station: Semantic similarity analysis
-using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019/Authors_CFP.html) )*. **(Accepted and sent to TRC for 2nd review)** [PPT](https://zhuangdingyi.github.io/files/Final report for Prof. Lee.pdf) [PDF](https://zhuangdingyi.github.io/files/NUS_Manuscript.pdf) 
+using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019/Authors_CFP.html) )*. **(Accepted and sent to TRC for editor review)** [PPT](https://zhuangdingyi.github.io/files/Final_report_prof_lee.pdf) [PDF](https://zhuangdingyi.github.io/files/NUS_Manuscript.pdf) 
 
 * Siyu Hao, **Dingyi Zhuang**, De Zhao, Der-Horng Lee, A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit, *Transportation Research Board 2020*. **(Presentation)**
+
+* Fuqiang Liu, Jiawei Wang, **Dingyi Zhuang**, Jingbo Tian, Luis Miranda-Moreno, Lijun Sun. A General Framework Based on Temporally Dynamic Adjacency Matrix for Long-Term Traffic Prediction, *The 26th ACM SIGKDD 
+Conference on Knowledge Discovery and Data Mining*. **(In proceeding)**
 
 * Siyu Hao, **Dingyi Zhuang**, Der-Horng Lee, A spatial-temporal Deep Learning Framework for Network-wide Bus Passenger Flow prediction. **(Working paper)**
 
@@ -35,12 +38,7 @@ using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019
 
 * September 3, 2019. I enrolled McGill University as a master (thesis) student in the Department of Civil Engineering and Applied Mechanics
 
-* August 3, 2019, two papers, *A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit* and *A spatial-temporal Deep Learning Framework for Network-wide Bus Passenger Flow prediction* were submitted to Transportation Research Board 2020
-
 * December 12, 2018. My work in NUS, *From compound word to metropolitan station: Semantic similarity analysis using smart card data*, was submitted to *Transportation Research Part C: Emerging Technologies*.
-
-
-* November 9, 2018. A paper was submitted to *Transportation Research Part E: Logistics and Transportation Review*.
 
 * October 13, 2018. I will report in [*WCTR Society’s SIG G2 Mid-Term Workshop*](http://e242.zserv.tuwien.ac.at/fileadmin/mediapool-verkehrsplanung/Diverse/Links/CfP_WCTR_SIG2_mid-term_event_final_v1.pdf) in Beijing.
 
@@ -49,8 +47,6 @@ using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019
 * September 9, 2018. I made oral presentation in *The Sixth International Conference on Transportation and Logistics ([6th T-LOG](http://tlog2018.cicts-dmu.com/) )*.
 
 * August 6, 2018. A paper was accepted in *The 6th International Conference on Transportation and Space-time Economics ([TSTE 2018](http://tste.bjtu.edu.cn/) )*.
-
-* July 15, 2018. A paper was submitted to *Journal of Transport Geography*.
 
 * July 9, 2018. I start my research in National University of Singapore under the guidance of Prof. Lee Der-Horng.
 

@@ -88,7 +88,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://www.flickr.com/people/184583888@N05/"
+  flickr           : &flickr "Dingyi Zhuang"
   facebook         : &facebook "Zhuang Dingyi"
   foursquare       :
   github           : "ZhuangDingyi"

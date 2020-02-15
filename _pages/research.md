@@ -9,6 +9,7 @@ author_profile: true
 *Advisor*:  [Prof. Lijun Sun](https://lijunsun.github.io/)
 *Co-worker*: Fuqiang Liu, Jiawei Wang, [Jingbo Tian](https://joshuatian-mcgill.github.io/) and [Prof. Luis Miranda-Moreno](https://www.mcgill.ca/civil/luis-miranda-moreno) 
 * Introduced a general framework with Bias Block to improve the performance of seq2seq extreme long-time prediction.
+* Used STGCN, DCRNN and GWNet as base model and chose Matrix Factorization, VAR and SVR as the baseline to prove that our model obtain higher accuracy and stronger interpretability. 
 * Geodata visualization with Python and paper writing.
 ![](http://zhuangdingyi.github.io/files/framework_kdd.pdf) 
 

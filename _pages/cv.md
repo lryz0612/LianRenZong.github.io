@@ -29,7 +29,7 @@ redirect_from:
 	
 * **Research student in Civil and Environmental Engineering, National University of Singapore**  
   July. 2018 ~ Sept. 2018   
-  Supervisor: [Prof. Lee Der-Horng](http://www.eng.nus.edu.sg/cee/people/ceeleedh/)
+  Supervisor: [Prof. Lee Der-Horng](https://www.eng.nus.edu.sg/cee/staff/lee-der-horng/)
 
 ## Awards & Honors
 

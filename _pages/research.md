@@ -17,6 +17,8 @@ author_profile: true
 
 <!-- /TOC -->
 
+------
+
 ## A General Framework Based on Temporally Dynamic Adjacency Matrix for Long-Term Traffic Prediction
 *McGill University, Dec. 2019 ~ Feb. 2020*  
 *Advisor*:  [Prof. Lijun Sun](https://lijunsun.github.io/)  

@@ -24,7 +24,7 @@ My research interests lie in spatial-temporal data mining and urban computing, p
 * **Dingyi Zhuang**, Jiangang Jin, Yifan Shen, Wei Jiang, Understanding the bike sharing travel demand and cycle lane network: the case of Shanghai, *International Journal of Sustainable Transportation*. [PDF](https://zhuangdingyi.github.io/files/full-manuscript.pdf) [doi](https://www.tandfonline.com/doi/full/10.1080/15568318.2019.1699209)
 
 * **Dingyi Zhuang**, Siyu Hao, Lee Der-Horng, Jiangang Jin, From compound word to metropolitan station: Semantic similarity analysis
-using smart card data, *([COTA CICTP 2019](http://cota-home.org/CICTP/CICTP_2019/Authors_CFP.html) )*. **(Accepted and sent to TRC for editor review)** [PPT](https://zhuangdingyi.github.io/files/Final_report_prof_lee.pdf) [PDF](https://zhuangdingyi.github.io/files/NUS_Manuscript.pdf) 
+using smart card data, *Transportation Research Part C: Emerging Technology)*. [PPT](https://zhuangdingyi.github.io/files/Final_report_prof_lee.pdf) [doi](https://doi.org/10.1016/j.trc.2020.02.017) 
 
 * Siyu Hao, **Dingyi Zhuang**, De Zhao, Der-Horng Lee, A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit, *Transportation Research Board 2020*. **(Presentation)**
 

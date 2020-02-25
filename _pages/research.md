@@ -64,7 +64,7 @@ author_profile: true
   * Proposed a new conception to understand metropolitan mobility as words  
   * Independently selected mobility features then trained stacked autoencoder network to discover mobility semantics  
   * Applied topic modeling (TF-IDF+SVD+LDA) on scraped POI data to find service semantics 
-  * Geodata visualization with Python  
+  * Paper published in *Transportation Research Part C: Emerging Technology*[doi](https://doi.org/10.1016/j.trc.2020.02.017) 
 
 ![](http://zhuangdingyi.github.io/files/stns.gif) 
 
@@ -74,6 +74,6 @@ author_profile: true
   * Proposed methods to scrape data from bike-sharing application  
   * Applied graphic clustering to mine the insight of bike-sharing data  
   * Suggested a method to explore cycle lane network then presented advice for urban planning  
-  * Paper accepted by *6th T-LOG*, *TSTE 2018* and published in *International Journal of Sustainable Transportation* [doi](https://www.tandfonline.com/doi/full/10.1080/15568318.2019.1699209) .
+  * Paper accepted published in *International Journal of Sustainable Transportation* [doi](https://www.tandfonline.com/doi/full/10.1080/15568318.2019.1699209) .
 
 ![](http://zhuangdingyi.github.io/files/geographic_barrier_titled.png) 

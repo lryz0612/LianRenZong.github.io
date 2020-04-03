@@ -14,9 +14,9 @@ My research interests lie in spatial-temporal data mining and urban computing, p
 ## Research Interests
 
 * Urban computing & smart city
-* Graph network & complex network
-* Intelligent transportation systems
+* Graph network & complex network 
 * Human mobility and travel behavior
+* Deep reinforcement learning
 
 ## Publication
 * **Dingyi Zhuang**, Jiangang Jin, Yifan Shen, Wei Jiang, An empirical study on cycle lane network using bike sharing data: the case of Shanghai, *2018 International Conference on Transportation and Space-time Economics*. **(Presentation)**[PPT](https://zhuangdingyi.github.io/files/2018-08-23-Pre-Bikesharing.pdf)

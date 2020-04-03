@@ -19,19 +19,22 @@ My research interests lie in spatial-temporal data mining and urban computing, p
 * Deep reinforcement learning
 
 ## Publication
-* **Dingyi Zhuang**, Jiangang Jin, Yifan Shen, Wei Jiang, An empirical study on cycle lane network using bike sharing data: the case of Shanghai, *2018 International Conference on Transportation and Space-time Economics*. **(Presentation)**[PPT](https://zhuangdingyi.github.io/files/2018-08-23-Pre-Bikesharing.pdf)
+### Journal
+* **Dingyi Zhuang**, Siyu Hao, Lee Der-Horng, Jiangang Jin, From compound word to metropolitan station: Semantic similarity analysis
+using smart card data, *Transportation Research Part C: Emerging Technology)*. [PPT](https://zhuangdingyi.github.io/files/Final_report_prof_lee.pdf) [doi](https://doi.org/10.1016/j.trc.2020.02.017) 
 
 * **Dingyi Zhuang**, Jiangang Jin, Yifan Shen, Wei Jiang, Understanding the bike sharing travel demand and cycle lane network: the case of Shanghai, *International Journal of Sustainable Transportation*. [PDF](https://zhuangdingyi.github.io/files/full-manuscript.pdf) [doi](https://www.tandfonline.com/doi/full/10.1080/15568318.2019.1699209)
 
-* **Dingyi Zhuang**, Siyu Hao, Lee Der-Horng, Jiangang Jin, From compound word to metropolitan station: Semantic similarity analysis
-using smart card data, *Transportation Research Part C: Emerging Technology)*. [PPT](https://zhuangdingyi.github.io/files/Final_report_prof_lee.pdf) [doi](https://doi.org/10.1016/j.trc.2020.02.017) 
+* Siyu Hao, **Dingyi Zhuang**, Der-Horng Lee, A spatial-temporal Deep Learning Framework for Network-wide Bus Passenger Flow prediction. *IET Intelligent Transport Systems*
+
+### Conference
+* **Dingyi Zhuang**, Jiangang Jin, Yifan Shen, Wei Jiang, An empirical study on cycle lane network using bike sharing data: the case of Shanghai, *2018 International Conference on Transportation and Space-time Economics*. **(Presentation)**[PPT](https://zhuangdingyi.github.io/files/2018-08-23-Pre-Bikesharing.pdf)
 
 * Siyu Hao, **Dingyi Zhuang**, De Zhao, Der-Horng Lee, A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit, *Transportation Research Board 2020*. **(Presentation)**
 
 * Fuqiang Liu, Jiawei Wang, **Dingyi Zhuang**, Jingbo Tian, Luis Miranda-Moreno, Lijun Sun. A General Framework Based on Temporally Dynamic Adjacency Matrix for Long-Term Traffic Prediction, *The 26th ACM SIGKDD 
 Conference on Knowledge Discovery and Data Mining*. **(In proceeding)**
 
-* Siyu Hao, **Dingyi Zhuang**, Der-Horng Lee, A spatial-temporal Deep Learning Framework for Network-wide Bus Passenger Flow prediction. **(Working paper)**
 
 ## News
 * October 22, 2019. my paper with Dr. Siyu Hao, *A Pseudo-3D Convolutional Neural Network based Framework for Short-term Mixed Passenger Flow Prediction in Large-scale Public Transit* is accepted for presentation in Transportation Research Board 2020.

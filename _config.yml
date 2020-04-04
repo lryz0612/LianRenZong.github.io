@@ -89,7 +89,7 @@ author:
   codepen          :
   dribbble         :
   flickr           : &flickr "people/184583888@N05/"
-  facebook         : &facebook "Zhuang Dingyi"
+  facebook         : #&facebook "Zhuang Dingyi"
   foursquare       :
   github           : "ZhuangDingyi"
   google_plus      :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : &twitter "zdy_bert"
+  twitter          : #&twitter "zdy_bert"
   vine             :
   weibo            :
   xing             :

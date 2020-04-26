@@ -14,7 +14,7 @@ author_profile: true
  <div align="center"><img width="400" src="https://github.com/lryz0612/lryz0612.github.io/blob/master/images/Prius.jpg"/><img width="400" src="https://github.com/lryz0612/lryz0612.github.io/blob/master/images/DRL.jpg"/></div>
 &emsp;&emsp;&emsp; Fig. 1. Architecture of Prius powertrain &emsp;&emsp;&emsp;&emsp;&emsp; Fig. 2. Agent-environment interaction for HEV energy management
 
-<center> <img src="https://github.com/lryz0612/lryz0612.github.io/blob/master/images/Prius.jpg" style="zoom:30%" /> </center>
+<center> <img src="https://github.com/lryz0612/lryz0612.github.io/blob/master/images/DRL.jpg" style="zoom:30%" /> </center>
 
 
 ## Cross-type transfer for deep reinforcement learningbased hybrid electric vehicle energy management

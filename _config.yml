@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuang Dingyi - Homepage"
+title                    : "Lian Renzong - Homepage"
 title_separator          : "-"
-name                     : &name "Zhuang Dingyi"
-description              : &description "B.Eng in Mechanical Engineering, Shanghai Jiao Tong University"
-url                      : https://zhuangdingyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lian Renzong"
+description              : &description "B.Eng in Vehicle Engineering, Fuzhou University"
+url                      : https://lryz0612.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZhuangDingyi/ZhuangDingyi.github.io"
+repository               : "lryz0612/lryz0612.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,33 +77,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuang Dingyi"
-  avatar           : "zhaungdingyi_formal.jpg"
-  bio              : "M.Eng in Civil Engineering, McGill University"
-  location         : "Montreal, Canada"
+  name             : "Lian Renzong"
+  avatar           : "LianRenZong.jpg"
+  bio              : "M.Sc in Mechanical Engineering, Beijing Institute of Technology"
+  location         : "Beijing, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=8fYfUB0AAAAJ&hl=en"
-  email            : "dingyi.zhuang@mail.mcgill.ca"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=-5I8DIQAAAAJ&hl=en"
+  email            : "lianrz612@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : &flickr "people/184583888@N05/"
-  facebook         : #&facebook "Zhuang Dingyi"
+  flickr           : 
+  facebook         : 
   foursquare       :
-  github           : "ZhuangDingyi"
+  github           : "lryz0612"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : &linkedin "dingyi-zhuang-719841133"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #&twitter "zdy_bert"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

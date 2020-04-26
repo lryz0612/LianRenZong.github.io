@@ -31,9 +31,9 @@ redirect_from:
 
 * 2015.1-2016.12, project leader, [Formula Student China Competition](http://www.formulastudent.com.cn/) , Fuzhou University
 
-* 2016.5-2017.5, project leader, [Student Research Training Program], Fuzhou University
+* 2016.5-2017.5, project leader, Student Research Training Program, Fuzhou University
 
-* 2014.10-2015.5, project leader, [Mechanical Innovation Competition of Fujian Province], Fuzhou University
+* 2014.10-2015.5, project leader, Mechanical Innovation Competition of Fujian Province, Fuzhou University
 
 ## CV
 {% include base_path %}

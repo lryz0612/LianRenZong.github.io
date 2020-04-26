@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 
-* **MS in School of Mechanical Engineering, Beijing Institute of Technology**  
+* **M.S. in School of Mechanical Engineering, Beijing Institute of Technology**  
   Sept. 2018 ~ Now  
   Instructor: [Prof. Huachun Tan](https://tc.seu.edu.cn/2019/1022/c25722a291907/page.htm) and [Dr. Yuankai Wu](http://Kaimaoge.github.io/)
 

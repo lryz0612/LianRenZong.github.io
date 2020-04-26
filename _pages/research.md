@@ -11,7 +11,7 @@ author_profile: true
 * Aiming at the fuel economy and learning efficiency of DRL-based EMS, the embedded knowledge is utilized to solve the multi-objective optimization problem and the simplification of large control space; 
 * Extensive comparative simulations with respect to rule-interposing (RI) DDPG-based EMS and RI DQL-based EMS are conducted and discussed in detail.
 
- <div align="center"><img width="400" src="https://github.com/lryz0612/lryz0612.github.io/blob/master/images/Prius.jpg"/><img width="400" src="https://github.com/lryz0612/lryz0612.github.io/blob/master/images/DRL.jpg"/></div>
+ <div align="center"><img width="400" src="https://lryz0612.github.io/images/Prius.jpg"/><img width="400" src="https://lryz0612.github.io/images/DRL.jpg"/></div>
 &emsp;&emsp;&emsp; Fig. 1. Architecture of Prius powertrain &emsp;&emsp;&emsp;&emsp;&emsp; Fig. 2. Agent-environment interaction for HEV energy management
 
 <center> <img src="https://lryz0612.github.io/images/DRL.jpg" style="zoom:30%" /> </center>

@@ -29,4 +29,4 @@ My current research interests include the machine learning and energy management
 
 ## News
 
-* Mar. 2020: A paper titled "Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle" is accepted by journal **Energy.
+* Mar. 2020: A paper titled "Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle" is accepted by journal **Energy**.

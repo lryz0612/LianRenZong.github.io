@@ -21,8 +21,8 @@ author_profile: true
  * In contrast to previous studies that only target to handle the EMS of a single HEV configuration, the  proposed  framework  is  utilized  to  implement  EMSs  of different  types  of  HEVs.  It  is  not able  that  this  method  can significantly shorten the EMS development cycle for different types  of  HEVs.  
  * We  also  study  TL  between  EMSs  with different  control  variables.  Interestingly  the  results  show  that the  learning  efficiency  of  an  EMS  that  controls  engine  and motor  can  be  improved  by  knowledge  reuse  from  an  EMS that only controls engine.
  
-<div align="center"><img width="350" src=" https://lryz0612.github.io/images/HEVs.jpg"/></div>
-&emsp;&emsp;&emsp; Fig. 3. Schematic graph of four types of HEV powertrain architecture.
+<div align="center"><img width="150" src=" https://lryz0612.github.io/images/HEVs.jpg"/></div>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Fig. 3. Schematic graph of four types of HEV powertrain architecture.
  
-<div align="center"><img width="350" src="https://lryz0612.github.io/images/Transfering%20learning-1.jpg"/></div>
-&emsp;&emsp;&emsp; Fig. 4. Sketch map of network-based deep transfer learning.
+<div align="center"><img width="450" src="https://lryz0612.github.io/images/Transfering_learning.jpg"/></div>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Fig. 4. Sketch map of network-based deep transfer learning.

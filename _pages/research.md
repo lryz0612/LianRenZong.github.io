@@ -12,7 +12,7 @@ author_profile: true
 * Extensive comparative simulations with respect to rule-interposing (RI) DDPG-based EMS and RI DQL-based EMS are conducted and discussed in detail.
 
  <div align="center"><img width="350" src="https://lryz0612.github.io/images/Prius.jpg"/><img width="380" src="https://lryz0612.github.io/images/DRL.jpg"/></div>
-&emsp;&emsp;&emsp; Fig. 1. Architecture of Prius powertrain &emsp;&emsp; Fig. 2. Agent-environment interaction for HEV energy management
+&emsp;&emsp;Fig. 1. Architecture of Prius powertrain &emsp;&emsp; Fig. 2. Agent-environment interaction for HEV energy management
 
 
 ## Cross-type transfer for deep reinforcement learningbased hybrid electric vehicle energy management

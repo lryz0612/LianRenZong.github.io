@@ -11,7 +11,7 @@ redirect_from:
 
 * **M.Sc in School of Mechanical Engineering, Beijing institute of technology**  
   Sept. 2018 ~ Now  
-  Instructor: [Prof. Huachun Tan](https://tc.seu.edu.cn/2019/1022/c25722a291907/page.htm) 
+  Instructor: [Prof. Huachun Tan](https://tc.seu.edu.cn/2019/1022/c25722a291907/page.htm) and [Dr. Yuankai Wu](http://Kaimaoge.github.io/)
 
   
 * **B.Eng. in Vehicle Engineering, Fuzhou University**  

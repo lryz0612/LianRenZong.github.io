@@ -22,9 +22,9 @@ redirect_from:
 
 ## Awards & Honors
 
-* **Excellent Graduate Paper**  Fuzhou University. 2017
-* **Second Prize in Cost and Manufacture Event of 2016 Formula Student China Competition** Society of Automotive Engineers of China. 2016
-* **Second Prize in Mechanical Innovation Competition of Fujian Province**  Fujuan Educational Burea. 2015
+* **Excellent Graduate Paper**, Fuzhou University. 2017
+* **Second Prize in Cost and Manufacture Event of 2016 Formula Student China Competition**, Society of Automotive Engineers of China. 2016
+* **Second Prize in Mechanical Innovation Competition of Fujian Province**, Fujuan Educational Burea. 2015
 
 
 ## Research experience

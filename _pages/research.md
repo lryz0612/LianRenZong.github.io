@@ -17,7 +17,7 @@ author_profile: true
 
 ## Cross-type transfer for deep reinforcement learningbased hybrid electric vehicle energy management
 
- * A  novel  framework  of  DRL-based EMS  combined  with  TL  is  proposed  based  on  a  state-of-art DRL algorithm, DDPG. 
+ * A  novel  framework  of  DRL-based energy management strategy combined with TL is  proposed  based  on  a  state-of-art DRL algorithm, DDPG. 
  * In contrast to previous studies that only target to handle the EMS of a single HEV configuration, the  proposed  framework  is  utilized  to  implement  EMSs  of different  types  of  HEVs.  It  is  not able  that  this  method  can significantly shorten the EMS development cycle for different types  of  HEVs.  
  * We  also  study  TL  between  EMSs  with different  control  variables.  Interestingly  the  results  show  that the  learning  efficiency  of  an  EMS  that  controls  engine  and motor  can  be  improved  by  knowledge  reuse  from  an  EMS that only controls engine.
 

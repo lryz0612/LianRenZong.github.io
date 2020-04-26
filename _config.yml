@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Lian Renzong - Homepage"
 title_separator          : "-"
-name                     : &name "Lian Renzong"
+name                     : &name "Renzong Lian"
 description              : &description "B.Eng in Vehicle Engineering, Fuzhou University"
 url                      : https://lryz0612.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

@@ -12,7 +12,7 @@ author_profile: true
 * Extensive comparative simulations with respect to rule-interposing (RI) DDPG-based EMS and RI DQL-based EMS are conducted and discussed in detail.
 
  <div align="center"><img width="350" src="https://lryz0612.github.io/images/Prius.jpg"/><img width="380" src="https://lryz0612.github.io/images/DRL.jpg"/></div>
-&emsp;&emsp;&emsp; Fig. 1. Architecture of Prius powertrain &emsp;&emsp;&emsp;&emsp;&emsp; Fig. 2. Agent-environment interaction for HEV energy management
+&emsp;&emsp;&emsp; Fig. 1. Architecture of Prius powertrain &emsp;&emsp; Fig. 2. Agent-environment interaction for HEV energy management
 
 
 ## Cross-type transfer for deep reinforcement learningbased hybrid electric vehicle energy management
@@ -22,7 +22,7 @@ author_profile: true
  * We  also  study  TL  between  EMSs  with different  control  variables.  Interestingly  the  results  show  that the  learning  efficiency  of  an  EMS  that  controls  engine  and motor  can  be  improved  by  knowledge  reuse  from  an  EMS that only controls engine.
  
 <div align="center"><img width="800" src="https://lryz0612.github.io/images/HEVs.jpg"/></div>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Fig. 3. Schematic graph of four types of HEV powertrain architecture.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Fig. 3. Schematic graph of four types of HEV powertrain architecture.
  
 <div align="center"><img width="600" src="https://lryz0612.github.io/images/Transfering_learning.jpg"/></div>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Fig. 4. Sketch map of network-based deep transfer learning.
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Fig. 4. Sketch map of network-based deep transfer learning.

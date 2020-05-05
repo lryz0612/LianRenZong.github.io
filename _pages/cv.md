@@ -27,16 +27,16 @@ redirect_from:
 * **Second Prize in Mechanical Innovation Competition of Fujian Province**, Fujian Educational Burea. 2015
 
 
-## Research experience
+## Project experience
 
-* 2015.1-2016.12, project leader, [Formula Student China Competition](http://www.formulastudent.com.cn/) , Fuzhou University
+* Jan. 2015-Dec. 2016, Project Leader, [Formula Student China Competition](http://www.formulastudent.com.cn/) , Fuzhou University, Fuzhou, China
 
-* 2016.5-2017.5, project leader, Student Research Training Program, Fuzhou University
+* May 2016-May 2017, Project Leader, Student Research Training Program, Fuzhou University, Fuzhou, China
 
-* 2014.10-2015.5, project leader, Mechanical Innovation Competition of Fujian Province, Fuzhou University
+* Oct. 2014-May 2015, Project Leader, Mechanical Innovation Competition of Fujian Province, Fuzhou University, Fuzhou, China
 
 ## CV
 {% include base_path %}
 
-[My Up-to-date Curriculum Vitae](http://lryz0612.github.io/files/LRZ.pdf)
+[My Up-to-date Curriculum Vitae](http://lryz0612.github.io/files/CV-Renzong_Lian.pdf)
 

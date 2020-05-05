@@ -29,11 +29,11 @@ redirect_from:
 
 ## Project experience
 
-* Jan. 2015-Dec. 2016, Project Leader, [Formula Student China Competition](http://www.formulastudent.com.cn/) , Fuzhou University, Fuzhou, China
+* Jan. 2015-Dec. 2016, Project Leader, [**Formula Student China Competition**](http://www.formulastudent.com.cn/) , Fuzhou University, Fuzhou, China
 
-* May 2016-May 2017, Project Leader, Student Research Training Program, Fuzhou University, Fuzhou, China
+* May 2016-May 2017, Project Leader, **Student Research Training Program**, Fuzhou University, Fuzhou, China
 
-* Oct. 2014-May 2015, Project Leader, Mechanical Innovation Competition of Fujian Province, Fuzhou University, Fuzhou, China
+* Oct. 2014-May 2015, Project Leader, **Mechanical Innovation Competition of Fujian Province**, Fuzhou University, Fuzhou, China
 
 ## CV
 {% include base_path %}

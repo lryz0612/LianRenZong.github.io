@@ -38,5 +38,5 @@ redirect_from:
 ## CV
 {% include base_path %}
 
-[My Up-to-date Curriculum Vitae](http://lryz0612.github.io/files/CV-Renzong_Lian.pdf)
+[My Up-to-date Curriculum Vitae](http://lryz0612.github.io/files/CV-Renzong%20Lian.pdf)
 

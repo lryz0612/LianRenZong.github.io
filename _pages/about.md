@@ -26,6 +26,8 @@ My current research interests include the machine learning and energy management
 
 * [**Lian, R.**, Peng, J., Wu, Y*., Tan, H., & Zhang, H. (2020). Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle. Energy, 117297.](https://reader.elsevier.com/reader/sd/pii/S0360544220304047?token=B70E6384D7093CAEC7BC9C8D4E005696F260B15D5BC83F0E1349CD2D82DE1F5111D6000746121629006098B3A4FF2BB5) & [Code](https://github.com/lryz0612/Deep-reinforcement-learning-based-energy-management-strategy-for-hybrid-electric-vehicle)
 
+* [**Lian, R.**, H. Tan, J. Peng, Q. Li, Y. Wu, “Cross-type transfer for deep reinforcement learning based hybrid electric vehicle energy management,” IEEE Transactions on Vehicular Technology.] (https://github.com/lryz0612/lryz0612.github.io/blob/master/files/Cross_type_transfer_for_deep_reinforcement_learning_based_hybrid_electric_vehicle_energy_management.pdf)(accepted)
+
 
 ## News
 

@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received the B.Eng. degree in vehicle engineering from Fuzhou University, Fuzhou, China, in 2017. I am pursuing the M.Sc. degree in the School of Mechanical Engineering, Beijing Institute of Technology(Bit), Beijing, China. My master advisors are [Prof. Huachun Tan](https://tc.seu.edu.cn/2019/1022/c25722a291907/page.htm) and [Dr. Yuankai Wu](http://Kaimaoge.github.io/), who greatly helpe me during my study at Bit.
+I received the B.Eng. degree in vehicle engineering from Fuzhou University, Fuzhou, China, in 2017. I am pursuing the M.Sc. degree in the School of Mechanical Engineering, Beijing Institute of Technology(Bit), Beijing, China. My master advisors are [Prof. Huachun Tan](https://tc.seu.edu.cn/2019/1022/c25722a291907/page.htm) and [Dr. Yuankai Wu](http://Kaimaoge.github.io/), who greatly help me during my study at Bit.
 
 My current research interests include the machine learning and energy management of the hybrid electric vehicles. With the aim to facilitate the applications of deep reinforcement learning(DRL) on energy management systems, I focuse on the rule-interposing DRL and the knowledge transfer between different types of hybrid electric vehicle. 
 

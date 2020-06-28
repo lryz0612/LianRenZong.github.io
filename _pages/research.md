@@ -15,7 +15,7 @@ author_profile: true
 Fig. 1. Architecture of Prius powertrain &emsp; Fig. 2. Agent-environment interaction for HEV energy management
 
 
-## [Cross-type transfer for deep reinforcement learning based hybrid electric vehicle energy management](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9105110)
+## [Cross-type transfer for deep reinforcement learning based hybrid electric vehicle energy management](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9105110) & [Code](https://github.com/lryz0612/Transfer_DRL_EMS)
 
  * A  novel  framework  of  DRL-based energy management strategy combined with TL is  proposed  based  on  a  state-of-art DRL algorithm, DDPG. 
  * In contrast to previous studies that only target to handle the EMS of a single HEV configuration, the  proposed  framework  is  utilized  to  implement  EMSs  of different  types  of  HEVs.  It  is  not able  that  this  method  can significantly shorten the EMS development cycle for different types  of  HEVs.  

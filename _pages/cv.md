@@ -24,7 +24,7 @@ redirect_from:
 * **National Scholarship**, Ministry of Education of the People's Republic of China, 2020
 * **Excellent Graduate Student**, Beijing Institute of Technology, 2020
 * **Second Prize in China College Students ‘Internet+’ Innovation and Entrepreneurship Competition**, Beijing Municipal Education Commission, 2020
-* **Excellent Thesis, Fuzhou University. 2017
+* **Excellent Thesis**, Fuzhou University. 2017
 * **Second Prize in Cost and Manufacture Event of 2016 Formula Student China Competition**, Society of Automotive Engineers of China. 2016
 * **Second Prize in Mechanical Innovation Competition of Fujian Province**, Fujian Educational Burea. 2015
 
@@ -35,7 +35,7 @@ redirect_from:
 
 * Sep. 2018-Oct. 2019, Master Student, **Research on Energy Management Strategy of Plug-In Hybrid Electric Vehicle based on Deep Reinforcement Learning** (China Postdoctoral Science Foundation (Grant No. 2016M600933)), Beijing Institute of Technology, Beijing, China 
 
-* May 2020-Sep. 2020, **China College Students ‘Internet+’ Innovation and Entrepreneurship Competition: AI Power--end-to-end vehicle intelligent system**, Beijing Institute of Technology, Beijing, China
+* May 2020-Sep. 2020, Team Member, **China College Students ‘Internet+’ Innovation and Entrepreneurship Competition: AI Power--end-to-end vehicle intelligent system**, Beijing Institute of Technology, Beijing, China
 
 * May 2019-Aug. 2019, Team Member, **"Intel Cup" The First China Graduate Artificial Intelligence Innovation Competition: Intelligent energy management system of new energy vehicles**, Beijing Institute of Technology, Beijing, China     
 

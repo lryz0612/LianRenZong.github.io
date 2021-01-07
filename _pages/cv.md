@@ -15,7 +15,7 @@ redirect_from:
 
   
 * **B.Eng. in Vehicle Engineering, Fuzhou University**  
-  Sept. 2013 ~ July. 2017     
+  Sept. 2013 ~ July 2017     
   Bachelor of Engineering, School of Mechanical Engineering  
   GPA: 2.96/5 (79.2/100)  Rank: 24/64  
 
@@ -31,11 +31,11 @@ redirect_from:
 
 ## Project experience
 
-* Sep. 2018-Present, Master Student, **Multi Tensor Network Theory and Empirical Research for High Dimensional and Multi-Source Coupled Big Data** (National Natural Science Foundation of China (Grant No.61620106002)), Beijing Institute of Technology, Beijing, China                                                                      
+* Sept. 2018-Present, Master Student, **Multi Tensor Network Theory and Empirical Research for High Dimensional and Multi-Source Coupled Big Data** (National Natural Science Foundation of China (Grant No.61620106002)), Beijing Institute of Technology, Beijing, China                                                                      
 
-* Sep. 2018-Oct. 2019, Master Student, **Research on Energy Management Strategy of Plug-In Hybrid Electric Vehicle based on Deep Reinforcement Learning** (China Postdoctoral Science Foundation (Grant No. 2016M600933)), Beijing Institute of Technology, Beijing, China 
+* Sept. 2018-Oct. 2019, Master Student, **Research on Energy Management Strategy of Plug-In Hybrid Electric Vehicle based on Deep Reinforcement Learning** (China Postdoctoral Science Foundation (Grant No. 2016M600933)), Beijing Institute of Technology, Beijing, China 
 
-* May 2020-Sep. 2020, Team Member, **China College Students ‘Internet+’ Innovation and Entrepreneurship Competition: AI Power--end-to-end vehicle intelligent system**, Beijing Institute of Technology, Beijing, China
+* May 2020-Sept. 2020, Team Member, **China College Students ‘Internet+’ Innovation and Entrepreneurship Competition: AI Power--end-to-end vehicle intelligent system**, Beijing Institute of Technology, Beijing, China
 
 * May 2019-Aug. 2019, Team Member, **"Intel Cup" The First China Graduate Artificial Intelligence Innovation Competition: Intelligent energy management system of new energy vehicles**, Beijing Institute of Technology, Beijing, China     
 

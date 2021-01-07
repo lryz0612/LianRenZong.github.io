@@ -31,6 +31,6 @@ My current research interests include machine learning and the energy management
 
 ## News
 
-* May. 2020: A paper titled "Cross-type transfer for deep reinforcement learning based hybrid electric vehicle energy management" is accepted by journal **IEEE Transactions on Vehicular Technology**.
+* May 2020: A paper titled "Cross-type transfer for deep reinforcement learning based hybrid electric vehicle energy management" is accepted by journal **IEEE Transactions on Vehicular Technology**.
 
 * Mar. 2020: A paper titled "Rule-interposing deep reinforcement learning based energy management strategy for power-split hybrid electric vehicle" is accepted by journal **Energy**.

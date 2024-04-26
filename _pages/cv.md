@@ -40,8 +40,8 @@ redirect_from:
 * **Lian R**, Li Z, Li L. Lyapunov Exponent Based Stability Analysis for a High-Dimensional Nonlinear Vehicle System under Extreme Conditions[R]. SAE Technical Paper, 2024.
 
 
-% ## CV
+## CV
 {% include base_path %}
 
-%[My Up-to-date Curriculum Vitae](http://lryz0612.github.io/files/CV-Renzong%20Lian.pdf)
+[My Up-to-date Curriculum Vitae](http://lryz0612.github.io/files/CV-Renzong%20Lian.pdf)
 
